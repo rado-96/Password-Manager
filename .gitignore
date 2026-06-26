@@ -1,0 +1,29 @@
+# Build output
+*.exe
+*.obj
+*.pdb
+x64/
+Debug/
+Release/
+
+# Visual Studio files
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.VC.opendb
+
+# Sensitive runtime data
+master.hash
+salt.bin
+vault.enc
+
+# System files
+.DS_Store
+Thumbs.db
