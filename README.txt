@@ -1,6 +1,6 @@
 === Password Manager ===
 
-A secure password manager developed in C++, which allows users to safely generate, store, retrieve and manage passwords through a console-based interface. It features a master password authentication, AES-256 encryption, PBKDF2 key derivation and an encrypted vault storage which stores the user's entries.
+A secure password manager developed in C++, which allows users to safely generate, store, retrieve and manage passwords through a console-based interface. It features a master password authentication, AES-256 encryption, PBKDF2 key derivation and an encrypted vault storage which stores the user's entries. Each entry must contain a Site name, Username, and Password before the entry is generated and stored into the encrypted vault.
 
 ## Features:
 - Master password authentication.
