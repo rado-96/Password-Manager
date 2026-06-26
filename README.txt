@@ -74,6 +74,8 @@ This application is designed to protect stored credentials from unauthorised acc
 
 2. Download the json.hpp file (just the single file) from the latest release from the JSON GitHub repo: https://github.com/nlohmann/json
 
+* The 'include' folder already exists in the repo. Refer to the steps below when starting from scratch.
+
 	2.1. Create a new folder (name it 'include'), and move the 'json.hpp' file to that folder.
 
 	2.2. In the Solution Explorer, right-click on the project file, and select 'Properties'.
